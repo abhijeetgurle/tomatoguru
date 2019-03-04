@@ -25,7 +25,7 @@ SECRET_KEY = 'kcfavf!y6_$(ogtbjp$5fxv+*(jw%y5i-!4$s072a!vuj&m95g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'tomatoguru.herokuapp.com']
+ALLOWED_HOSTS = ['localhost', 'tomatoguru.herokuapp.com']
 
 
 # Application definition
